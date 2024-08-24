@@ -1,7 +1,11 @@
-Name : Adithya Reddy 
+Name : Adithya Reddy
+
 Company Name : CODTECH IT SOLUTIONS
+
 ID : CT08DS6534
+
 Duration : August 5th to September 5th 2024
+
 
 
 
