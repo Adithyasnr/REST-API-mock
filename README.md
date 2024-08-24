@@ -1,3 +1,10 @@
+Name : Adithya Reddy 
+Company Name : CODTECH IT SOLUTIONS
+ID : CT08DS6534
+Duration : August 5th to September 5th 2024
+
+
+
 A)Flask Setup:
 The application is initialized with Flask and Flask-RESTful, and the database is set up using SQLAlchemy.
 
