@@ -9,6 +9,15 @@ Duration : August 5th to September 5th 2024
 
 
 
+
+
+
+Project Overview
+
+
+
+
+
 A)Flask Setup:
 The application is initialized with Flask and Flask-RESTful, and the database is set up using SQLAlchemy.
 
